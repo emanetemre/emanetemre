@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Merhaba 👋, Ben Emre</h1>
 <p align="left">
 </p>
@@ -7,3 +8,4 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=emanetemre.emanetemre)](#)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=emanetemre&theme=blue-green">
+</center>
